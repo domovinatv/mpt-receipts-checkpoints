@@ -1,0 +1,20 @@
+{
+  "chain_head": "0xfb79b98d6c72da4c479712c9aae6fdcc3d59c15ee3096e9c95485032fef7736d",
+  "chain_tx_hash": null,
+  "created_at": 1791794659,
+  "lazy_count": 73,
+  "leaf_count": 74,
+  "ots_available": true,
+  "ots_bitcoin": false,
+  "ots_calendars": [
+    "https://a.pool.opentimestamps.org",
+    "https://b.pool.opentimestamps.org",
+    "https://a.pool.eternitywall.com",
+    "https://ots.btc.catallaxy.com"
+  ],
+  "prev_chain_head": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "root": "0x19903c4c38a86173d45ca7393a398063284a67cdaecc57a0360e20317f09128e",
+  "seq": 1,
+  "total_cents": 7993,
+  "total_leaves": 74
+}
