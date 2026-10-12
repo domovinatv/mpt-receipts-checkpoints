@@ -1,7 +1,7 @@
 {
   "anchors": [
     {
-      "bitcoin": false,
+      "bitcoin": true,
       "chain_head": "0xfb79b98d6c72da4c479712c9aae6fdcc3d59c15ee3096e9c95485032fef7736d",
       "created_at": 1791794659,
       "leaf_count": 74,
