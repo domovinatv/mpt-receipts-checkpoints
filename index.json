@@ -395,6 +395,15 @@
       "ots": true,
       "seq": 44,
       "total_leaves": 109
+    },
+    {
+      "bitcoin": true,
+      "chain_head": "0x57febc00d20dc495a8c7659bb6a284caf50ec28cfcb44b74cba6a9ec6f45571d",
+      "created_at": 1795564825,
+      "leaf_count": 0,
+      "ots": true,
+      "seq": 45,
+      "total_leaves": 109
     }
   ],
   "schema": "mpt-receipt-checkpoints/1"
